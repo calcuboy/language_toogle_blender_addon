@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "language_toggle"
+version = "1.0.0"
+name = "Quick Language Toggle"
+tagline = "Switch the interface language instantly with a shortcut"
+maintainer = "WorkBuddy"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+tags = ["System"]

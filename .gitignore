@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# WorkBuddy 项目记忆，不随仓库分享
+.workbuddy/
+
+# Blender 备份文件
+*.blend1
+*.blend2
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
